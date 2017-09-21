@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

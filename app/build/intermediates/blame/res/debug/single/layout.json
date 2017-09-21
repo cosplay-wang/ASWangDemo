@@ -1,0 +1,550 @@
+[
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_okhttpsend.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_okhttpsend.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_header_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\navigation_header_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lyrics.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_lyrics.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_text_view_spannable.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_text_view_spannable.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_screen_capture.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_screen_capture.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guid_view1.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\guid_view1.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_circle_image_view.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_circle_image_view.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_touch.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_touch.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_draw_cus.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_draw_cus.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\scroll_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_listview_item.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\pull_listview_item.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_view_cehua.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_list_view_cehua.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dragger2.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_dragger2.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_brightness.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_brightness.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recycler_view_flow.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_recycler_view_flow.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pulltorefresh.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\pulltorefresh.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_video.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_record_video.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_activity_down.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_list_activity_down.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cus_viewgroup_basic_layout_wrap.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\cus_viewgroup_basic_layout_wrap.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_onsave_inatance.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_onsave_inatance.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guid_view2.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\guid_view2.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_joint_image.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\content_joint_image.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pull_to_refresh.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_pull_to_refresh.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\okhttp_send_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\okhttp_send_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\read_view.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\read_view.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_joint_image.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_joint_image.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_text.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_text.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_activity_down2.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_list_activity_down2.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_text_input_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_text_input_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_broken_line.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_broken_line.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zxing.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_zxing.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_drag_helper2.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_view_drag_helper2.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flow.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_flow.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_timer_widget.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_timer_widget.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer2.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_customer2.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collection_sort.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_collection_sort.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_read_view.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_read_view.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drawer_layout_navigation_view.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_drawer_layout_navigation_view.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\foot_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\foot_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_horizontal_listview.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_horizontal_listview.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\constraintlayout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\constraintlayout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_item_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\recyclerview_item_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recyclverview_down.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_recyclverview_down.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_canvas.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_canvas.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web2_js.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_web2_js.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mar_quee.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_mar_quee.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_snack_bar.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_snack_bar.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_volley_image_loader.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_volley_image_loader.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guid_view4.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\guid_view4.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_text_with_text_view.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_edit_text_with_text_view.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_async_http.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_async_http.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rename_dialog_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\rename_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cus_viewgroup_basic_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\cus_viewgroup_basic_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_item_scroll_view.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_listview_item_scroll_view.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_leader.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_leader.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_text_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\edit_text_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_coordinator_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_coordinator_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_txt.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_txt.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_okhttp.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_okhttp.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bluetooch.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_bluetooch.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_srroll_view_imageview.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_srroll_view_imageview.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_view_group.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_customer_view_group.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customerview2.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_customerview2.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recyclver_view.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_recyclver_view.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_view.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_customer_view.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_screen_derection.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_screen_derection.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fresco_recycler_item_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\fresco_recycler_item_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_whole_broken_line.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_whole_broken_line.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_surface_view.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_surface_view.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guid_view3.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\guid_view3.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_drag_helper1.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_view_drag_helper1.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_player_video.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_media_player_video.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sqlite.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_sqlite.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fresco_image_loader.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_fresco_image_loader.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recy_item_flow_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\recy_item_flow_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cus_viewgroup_basic_layout_match.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\cus_viewgroup_basic_layout_match.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\down_list_item_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\down_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_touch_view2_view_group.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_touch_view2_view_group.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\f6b0214c7861857d3b205b2806a5587adaec36bb\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scanning.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_scanning.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_linearlayout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_customer_linearlayout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_swipe_refresh_layout_ac.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_swipe_refresh_layout_ac.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_recorder.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_media_recorder.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item_layout.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\listview_item_layout.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm_manager_activityl.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_alarm_manager_activityl.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\ZHIWEI.WANG\\.android\\build-cache\\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_html_app.xml",
+        "source": "F:\\CodeStudio\\ASWangDemo\\app\\src\\main\\res\\layout\\activity_html_app.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Thu Sep 21 17:34:10 CST 2017
+base.0=F\:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_593a01a936f28de35f6a715ff124652605fad25f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b2bf2572ba3027432c78d6010b4a23651d376c0c\\classes.dex
+base.1=F\:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b2bf2572ba3027432c78d6010b4a23651d376c0c
+file.0=F\:\\CodeStudio\\ASWangDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_593a01a936f28de35f6a715ff124652605fad25f\\classes.dex

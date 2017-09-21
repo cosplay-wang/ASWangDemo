@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>    
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/typefragment99"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants" >
+
+    <ImageView
+        android:id="@+id/mImageleft"
+        android:layout_width="60dp"
+        android:layout_height="79dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="3dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/book" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginRight="40dp"
+        android:layout_toRightOf="@id/mImageleft"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:textColor="#000"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_marginBottom="22dp"
+        android:layout_marginLeft="6dp"
+        android:layout_toRightOf="@id/mImageleft"
+        android:ellipsize="end"
+        android:maxEms="8"
+        android:singleLine="true"
+        android:textColor="#4a4c42"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/mImageright_down"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/title"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/downbook"
+         />
+    <TextView
+        android:id="@+id/deviding_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/mImageleft"
+        android:layout_marginLeft="12dp"
+        android:background="#D1D1D2" />
+
+</RelativeLayout>  

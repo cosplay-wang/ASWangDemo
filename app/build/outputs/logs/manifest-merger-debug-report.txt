@@ -1,0 +1,431 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:2:1-139:12
+	package
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:4:5-45
+uses-permission#android.permission.INTERNET
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.CAMERA
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:15:22-62
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:16:5-84
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:16:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.INTERACT_ACROSS_USERS_FULL
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:18:5-85
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:18:22-82
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:19:22-70
+uses-feature#android.hardware.camera
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:22:5-60
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:22:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:23:5-70
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:23:19-67
+application
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:25:5-137:19
+MERGED from [com.android.support:design:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\f6b0214c7861857d3b205b2806a5587adaec36bb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\e6fe6305def2696c202c7b1c00d6bb4ff614faa9\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\d2f4e55f106bcef0dc64eafc0e9ca2e841a256d6\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\fd30bb7b1fb839e0c302d509914f07ff00c905e5\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\1bc6b9f6a1a47642bcb68b2493d6c22fc98e6eb6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\8f228883b869f2e2dc922f45864e27b7f6aa9cf4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\76f1cac1d6832dcd5aa1618a0c5cdc32f1f1dc0d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\c70bdbbd4e06192c0b6b32cd799e65cb469f7d0f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\21d399b838d640a2101a25f47a0252cc7eac2828\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ZHIWEI.WANG\.android\build-cache\41261c31cbcf3230ad8d573b038cc21f0c8c5d35\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\ZHIWEI.WANG\.android\build-cache\2dcdf41a597f0b58decdde156f0d06fc36711ede\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:28:9-41
+	android:supportsRtl
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:29:9-35
+	android:allowBackup
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:30:9-40
+activity#as.founder.demo.wang.MainActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:31:9-37:20
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:31:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:35:27-74
+activity#as.founder.demo.wang.activity.VolleyAC
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:38:9-55
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:38:19-52
+activity#as.founder.demo.wang.activity.OKHTTP
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:39:9-53
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:39:19-50
+activity#as.founder.demo.wang.activity.VolleyImageLoader
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:40:9-64
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:40:19-61
+activity#as.founder.demo.wang.activity.FrescoImageLoader
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:41:9-64
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:41:19-61
+activity#as.founder.demo.wang.activity.SwipeRefreshLayoutAC
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:42:9-67
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:42:19-64
+activity#as.founder.demo.wang.activity.TextActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:43:9-59
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:43:19-56
+activity#as.founder.demo.wang.activity.TxtActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:44:9-58
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:44:19-55
+activity#as.founder.demo.wang.activity.CustomerViewActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:45:9-67
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:45:19-64
+activity#as.founder.demo.wang.activity.ListActivityDown
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:46:9-63
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:46:19-60
+activity#as.founder.demo.wang.activity.PullToRefreshActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:47:9-68
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:47:19-65
+activity#as.founder.demo.wang.activity.Customerview2Activity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:48:9-68
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:48:19-65
+activity#as.founder.demo.wang.activity.HorizontalListviewActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:49:9-73
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:49:19-70
+activity#as.founder.demo.wang.activity.AlarmManagerActivityl
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:50:9-68
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:50:19-65
+receiver#as.founder.demo.wang.alarmmanager.AlarmRceiver
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:52:9-54:41
+	android:process
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:54:13-38
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:53:13-54
+activity#as.founder.demo.wang.activity.CircleImageViewActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:56:9-70
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:56:19-67
+activity#as.founder.demo.wang.activity.CanvasActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:57:9-61
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:57:19-58
+activity#as.founder.demo.wang.activity.BluetoochActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:58:9-64
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:58:19-61
+receiver#as.founder.demo.wang.bluetooth.ConnectActivityReceiver
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:60:9-64:20
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:60:19-68
+intent-filter#android.bluetooth.device.action.PAIRING_REQUEST
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:61:13-63:29
+action#android.bluetooth.device.action.PAIRING_REQUEST
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:62:17-90
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:62:25-87
+activity#as.founder.demo.wang.activity.ListviewItemScrollViewActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:66:9-77
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:66:19-74
+activity#as.founder.demo.wang.activity.CustomerViewGroupActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:67:9-72
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:67:19-69
+activity#as.founder.demo.wang.customerviewgroup.CustomerLinearlayoutActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:68:9-84
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:68:19-81
+activity#as.founder.demo.wang.customerviewgroup.FlowActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:69:9-68
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:69:19-65
+activity#as.founder.demo.wang.activity.MediaRecorderActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:70:9-68
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:70:19-65
+activity#as.founder.demo.wang.videorecorder.RecordVideoActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:71:9-71
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:71:19-68
+activity#as.founder.demo.wang.videorecorder.MediaPlayerVideoActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:72:9-76
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:72:19-73
+activity#as.founder.demo.wang.videorecorder.ScreenCaptureActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:73:9-73
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:73:19-70
+service#as.founder.demo.wang.videorecorder.ScreenCaptureService
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:75:9-71
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:75:18-68
+activity#as.founder.demo.wang.activity.SurfaceViewActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:77:9-66
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:77:19-63
+activity#as.founder.demo.wang.activity.CoordinatorLayoutActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:78:9-80:56
+	android:theme
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:80:13-53
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:79:13-63
+activity#as.founder.demo.wang.activity.SnackBarActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:81:9-63
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:81:19-60
+activity#as.founder.demo.wang.activity.TextInputLayoutActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:82:9-70
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:82:19-67
+activity#as.founder.demo.wang.activity.DrawerLayoutNavigationViewActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:83:9-81
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:83:19-78
+service#as.founder.demo.wang.service.testService
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:84:9-87:39
+	android:enabled
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:86:13-35
+	android:exported
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:87:13-36
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:85:13-48
+activity#as.founder.demo.wang.activity.TouchActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:89:9-60
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:89:19-57
+activity#as.founder.demo.wang.activity.ScanningActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:90:9-63
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:90:19-60
+activity#as.founder.demo.wang.activity.LeaderActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:91:9-61
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:91:19-58
+activity#as.founder.demo.wang.activity.CollectionSortActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:93:9-69
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:93:19-66
+activity#as.founder.demo.wang.activity.SqliteActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:94:9-61
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:94:19-58
+activity#as.founder.demo.wang.activity.ZXingActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:95:9-60
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:95:19-57
+activity#as.founder.demo.wang.activity.ReadViewActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:96:9-98:66
+	android:theme
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:98:13-63
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:97:13-54
+activity#as.founder.demo.wang.activity.SrrollViewImageviewActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:99:9-74
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:99:19-71
+activity#as.founder.demo.wang.activity.TextViewSpannableActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:100:9-72
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:100:19-69
+activity#as.founder.demo.wang.activity.DrawCusActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:101:9-62
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:101:19-59
+activity#as.founder.demo.wang.activity.EditTextWithTextViewActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:102:9-75
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:102:19-72
+activity#as.founder.demo.wang.activity.RecyclverViewActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:103:9-68
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:103:19-65
+activity#as.founder.demo.wang.activity.DialogActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:104:9-61
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:104:19-58
+activity#as.founder.demo.wang.activity.BrightnessActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:105:9-65
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:105:19-62
+activity#as.founder.demo.wang.activity.ScreenDerectionActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:106:9-70
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:106:19-67
+activity#as.founder.demo.wang.activity.RecyclverviewDownActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:107:9-72
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:107:19-69
+activity#as.founder.demo.wang.activity.TimerWidgetActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:108:9-66
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:108:19-63
+activity#as.founder.demo.wang.activity.JointImageActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:109:9-112:59
+	android:label
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:111:13-63
+	android:theme
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:112:13-56
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:110:13-56
+activity#as.founder.demo.wang.activity.TouchView2ViewGroupActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:113:9-74
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:113:19-71
+activity#as.founder.demo.wang.activity.HtmlAppActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:114:9-62
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:114:19-59
+activity#as.founder.demo.wang.activity.Web2JS
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:115:9-126:20
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:115:19-50
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:116:13-125:29
+action#android.intent.action.VIEW
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:117:17-69
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:117:25-66
+category#android.intent.category.DEFAULT
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:119:17-76
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:119:27-73
+category#android.intent.category.BROWSABLE
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:120:17-78
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:120:27-75
+data
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:122:17-124:42
+	android:host
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:123:21-39
+	android:scheme
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:124:21-39
+activity#as.founder.demo.wang.activity.Dragger2Activity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:127:9-63
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:127:19-60
+activity#as.founder.demo.wang.activity.ListViewcehuaActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:128:9-68
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:128:19-65
+activity#as.founder.demo.wang.activity.ViewDragHelper1Activity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:129:9-70
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:129:19-67
+activity#as.founder.demo.wang.activity.ViewDragHelper2Activity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:130:9-70
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:130:19-67
+activity#as.founder.demo.wang.activity.BrokenLineActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:131:9-65
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:131:19-62
+activity#as.founder.demo.wang.activity.WholeBrokenLineActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:132:9-70
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:132:19-67
+activity#as.founder.demo.wang.activity.RecyclerViewFlowActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:133:9-71
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:133:19-68
+activity#as.founder.demo.wang.activity.OnsaveInatanceActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:134:9-69
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:134:19-66
+activity#as.founder.demo.wang.activity.LyricsActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:135:9-61
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:135:19-58
+activity#as.founder.demo.wang.activity.MarQueeActivity
+ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:136:9-71
+	android:name
+		ADDED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml:136:19-59
+uses-sdk
+INJECTED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\f6b0214c7861857d3b205b2806a5587adaec36bb\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\e6fe6305def2696c202c7b1c00d6bb4ff614faa9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\d2f4e55f106bcef0dc64eafc0e9ca2e841a256d6\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\1aa24fd90757f07551fcfaaeacdd9400d7948d8f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\fd30bb7b1fb839e0c302d509914f07ff00c905e5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\1bc6b9f6a1a47642bcb68b2493d6c22fc98e6eb6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\8f228883b869f2e2dc922f45864e27b7f6aa9cf4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\76f1cac1d6832dcd5aa1618a0c5cdc32f1f1dc0d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\c70bdbbd4e06192c0b6b32cd799e65cb469f7d0f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\21d399b838d640a2101a25f47a0252cc7eac2828\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ZHIWEI.WANG\.android\build-cache\41261c31cbcf3230ad8d573b038cc21f0c8c5d35\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\ZHIWEI.WANG\.android\build-cache\f24202a569f934bd3eb1f24aab4dd39a629d6ce7\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\ZHIWEI.WANG\.android\build-cache\2dcdf41a597f0b58decdde156f0d06fc36711ede\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] C:\Users\ZHIWEI.WANG\.android\build-cache\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\CodeStudio\ASWangDemo\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-compat:25.3.0] C:\Users\ZHIWEI.WANG\.android\build-cache\2dcdf41a597f0b58decdde156f0d06fc36711ede\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-compat:25.3.0] C:\Users\ZHIWEI.WANG\.android\build-cache\2dcdf41a597f0b58decdde156f0d06fc36711ede\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-compat:25.3.0] C:\Users\ZHIWEI.WANG\.android\build-cache\2dcdf41a597f0b58decdde156f0d06fc36711ede\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/scanning_back">
+    <LinearLayout
+        android:layout_width="@dimen/rename_lin_width"
+        android:layout_height="@dimen/rename_lin_height"
+        android:background="@color/colorTopTilteText"
+        android:id="@+id/rename_lin"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/rename_lin_title_height"
+            android:id="@+id/rename_text_title"
+            android:text="提示"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:textSize="@dimen/rename_lin_title_textsize"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/rename_lin_title_height"
+            android:id="@+id/rename_text_title_1"
+            android:text="是否确定删除文件"
+            android:textColor="#000000"
+            android:textSize="@dimen/rename_lin_title_textsize"/>
+
+        <CheckBox
+            android:layout_width="match_parent"
+            android:id="@+id/rename_text_title_2_check"
+            android:layout_height="20dp"
+            android:text="是否确定删除文件"
+            android:textSize="10sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#cccccc"></View>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/rename_lin_bottom_Lin_height"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/rename_lin_false"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textColor="#000000"
+                android:textSize="@dimen/rename_lin_title_textsize"
+                android:gravity="center"
+                android:text="取消"/>
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="#cccccc"></View>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:id="@+id/rename_lin_sure"
+                android:textColor="@color/colorTopBar"
+                android:textSize="@dimen/rename_lin_title_textsize"
+                android:gravity="center"
+                android:text="确认"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</FrameLayout>

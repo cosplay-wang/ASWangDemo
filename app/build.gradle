@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.1"
+
+    defaultConfig {
+        applicationId "as.founder.demo.wang"
+        minSdkVersion 21
+        targetSdkVersion 25
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+apply plugin: 'com.jakewharton.butterknife'
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('libs/gson-2.7.jar')
+    compile 'com.android.support:appcompat-v7:25.1.0'
+    compile 'com.android.support:recyclerview-v7:25.1.0'
+    compile 'com.android.support:design:25.1.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    testCompile 'junit:junit:4.12'
+   // annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+    compile 'com.jakewharton:butterknife:8.8.1'
+}

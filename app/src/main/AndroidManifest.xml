@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="as.founder.demo.wang"
+    android:installLocation="preferExternal"
+    android:versionCode="1"
+    android:versionName="1.1">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <!-- 录制音频需要访问麦克风设备 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <!-- 硬件支持 -->
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/abc"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.VolleyAC" />
+        <activity android:name=".activity.OKHTTP" />
+        <activity android:name=".activity.VolleyImageLoader" />
+        <activity android:name=".activity.FrescoImageLoader" />
+        <activity android:name=".activity.SwipeRefreshLayoutAC" />
+        <activity android:name=".activity.TextActivity" />
+        <activity android:name=".activity.TxtActivity" />
+        <activity android:name=".activity.CustomerViewActivity" />
+        <activity android:name=".activity.ListActivityDown" />
+        <activity android:name=".activity.PullToRefreshActivity" />
+        <activity android:name=".activity.Customerview2Activity" />
+        <activity android:name=".activity.HorizontalListviewActivity" />
+        <activity android:name=".activity.AlarmManagerActivityl" />
+
+        <receiver
+            android:name=".alarmmanager.AlarmRceiver"
+            android:process=":remote" />
+
+        <activity android:name=".activity.CircleImageViewActivity" />
+        <activity android:name=".activity.CanvasActivity" />
+        <activity android:name=".activity.BluetoochActivity" />
+
+        <receiver android:name=".bluetooth.ConnectActivityReceiver">
+            <intent-filter>
+                <action android:name="android.bluetooth.device.action.PAIRING_REQUEST" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".activity.ListviewItemScrollViewActivity" />
+        <activity android:name=".activity.CustomerViewGroupActivity" />
+        <activity android:name=".customerviewgroup.CustomerLinearlayoutActivity" />
+        <activity android:name=".customerviewgroup.FlowActivity" />
+        <activity android:name=".activity.MediaRecorderActivity" />
+        <activity android:name=".videorecorder.RecordVideoActivity" />
+        <activity android:name=".videorecorder.MediaPlayerVideoActivity" />
+        <activity android:name=".videorecorder.ScreenCaptureActivity" />
+
+        <service android:name=".videorecorder.ScreenCaptureService" />
+
+        <activity android:name=".activity.SurfaceViewActivity" />
+        <activity
+            android:name=".activity.CoordinatorLayoutActivity"
+            android:theme="@style/AppThemeactionBar" />
+        <activity android:name=".activity.SnackBarActivity" />
+        <activity android:name=".activity.TextInputLayoutActivity" />
+        <activity android:name=".activity.DrawerLayoutNavigationViewActivity" /> <!-- android:theme="@style/AppThemeBase" -->
+        <service
+            android:name=".service.testService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name=".activity.TouchActivity" />
+        <activity android:name=".activity.ScanningActivity" />
+        <activity android:name=".activity.LeaderActivity" />
+        <!-- android:theme="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen" -->
+        <activity android:name=".activity.CollectionSortActivity" />
+        <activity android:name=".activity.SqliteActivity" />
+        <activity android:name=".activity.ZXingActivity" />
+        <activity
+            android:name=".activity.ReadViewActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name=".activity.SrrollViewImageviewActivity" />
+        <activity android:name=".activity.TextViewSpannableActivity" />
+        <activity android:name=".activity.DrawCusActivity" />
+        <activity android:name=".activity.EditTextWithTextViewActivity" />
+        <activity android:name=".activity.RecyclverViewActivity" />
+        <activity android:name=".activity.DialogActivity" />
+        <activity android:name=".activity.BrightnessActivity" />
+        <activity android:name=".activity.ScreenDerectionActivity" />
+        <activity android:name=".activity.RecyclverviewDownActivity" />
+        <activity android:name=".activity.TimerWidgetActivity" />
+        <activity
+            android:name=".activity.JointImageActivity"
+            android:label="@string/title_activity_joint_image"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".activity.TouchView2ViewGroupActivity" />
+        <activity android:name=".activity.HtmlAppActivity" />
+        <activity android:name=".activity.Web2JS">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="b.c"
+                    android:scheme="a" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.Dragger2Activity" />
+        <activity android:name=".activity.ListViewcehuaActivity" />
+        <activity android:name=".activity.ViewDragHelper1Activity" />
+        <activity android:name=".activity.ViewDragHelper2Activity" />
+        <activity android:name=".activity.BrokenLineActivity" />
+        <activity android:name=".activity.WholeBrokenLineActivity" />
+        <activity android:name=".activity.RecyclerViewFlowActivity" />
+        <activity android:name=".activity.OnsaveInatanceActivity" />
+        <activity android:name=".activity.LyricsActivity" />
+        <activity android:name=".activity.MarQueeActivity"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:myview="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="as.founder.demo.wang.activity.CircleImageViewActivity">
+
+<RelativeLayout
+    android:layout_width="200dp"
+    android:layout_height="200dp"
+    android:layout_centerVertical="true"
+    android:gravity="center"
+    android:id="@+id/ima"
+    android:background="#26ed22">
+
+    <as.founder.demo.wang.circleImageview.CircleImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        myview:roundWidth = "75dp"
+        myview:roundHeight="75dp"
+        android:src="@drawable/c">
+    </as.founder.demo.wang.circleImageview.CircleImageView>
+
+</RelativeLayout>
+    <TextView
+        android:layout_below="@id/ima"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="采用画圆角的方式，其实是用了四个连接的多边形，不规则，中间有一段是截取弧线，arcto的方法，而且必须是以四个角截取，否则会出现多一条直线的问题"/>
+</RelativeLayout>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\f24202a569f934bd3eb1f24aab4dd39a629d6ce7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac5dadc4c469240ba15916a727b497e91347bef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\8f228883b869f2e2dc922f45864e27b7f6aa9cf4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c29fe95ad6545129412005d1aaf0165b28c25bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\1bc6b9f6a1a47642bcb68b2493d6c22fc98e6eb6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac24f690837e0fa7c7f24ac17784df3f8248933f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\1aa24fd90757f07551fcfaaeacdd9400d7948d8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6026ce4188f1e6f66fde7b5a6b2a09e39cd4a3a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CodeStudio\ASWangDemo\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_fd913bd58278be82e94ee53be771f3ab72bbdc15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CodeStudio\ASWangDemo\app\libs\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.3.1_bbb036980a727624c173ba29bc5449046a46bdb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\44273b16d5186fe2d19b3b40b5174bdb3be02cf9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7d1cd6f8cc657ab7317ab115771cf528bfdd550\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CodeStudio\ASWangDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="42428e87de99786ae05bbd507c79616c2c4c844e">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b2bf2572ba3027432c78d6010b4a23651d376c0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CodeStudio\ASWangDemo\app\libs\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.7_5c3f1f9d45b5ad6f52dff3368664818840ab11f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\76f1cac1d6832dcd5aa1618a0c5cdc32f1f1dc0d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83492bd3db424f04f6ca9f96cef9a8fd8a547760\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CodeStudio\ASWangDemo\app\libs\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.8.0_3c83927671ea3923c70aae4eb501db62b2cd0d65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\f6b0214c7861857d3b205b2806a5587adaec36bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a32d24536c150e406eadb846430a2563de7e51d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\d2f4e55f106bcef0dc64eafc0e9ca2e841a256d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_37034b9f18b0a4dd2b9444340ea36d716906231d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\41261c31cbcf3230ad8d573b038cc21f0c8c5d35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d2a532e8adba72bb3a36cb362fd77ff584ca8fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_e91fca1d8851aa1868c2a653cb8e2828450a66a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_98e5920e0f9b0e1a1b6a707f8402b4f5acf9a5db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\21d399b838d640a2101a25f47a0252cc7eac2828\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02a85125fef137740f9d07f4f081cc01b1def300\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\fd30bb7b1fb839e0c302d509914f07ff00c905e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98050661894f33c53242a89b996685cfb6409050\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\2dcdf41a597f0b58decdde156f0d06fc36711ede\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c394784ea76f01c626a91aa0387e368750858087\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CodeStudio\ASWangDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_593a01a936f28de35f6a715ff124652605fad25f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CodeStudio\ASWangDemo\app\libs\fastjson-1.1.52.android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fcd2df42d3576368514855c72baabe3b6e318e0">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\fastjson-1.1.52.android_f289ee35ad1320188949f018c98fbd01d378b404\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.8.1_8a81b63724a683425cd20288863c1c6646deb3e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\c70bdbbd4e06192c0b6b32cd799e65cb469f7d0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e334215172e89982e876283c978f96a3b84dcc59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZHIWEI.WANG\.android\build-cache\e6fe6305def2696c202c7b1c00d6bb4ff614faa9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\CodeStudio\ASWangDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc91b6e85acefc2947b2d0bd553a48709f98e4d1\classes.dex" />
+    </item>
+
+</items>

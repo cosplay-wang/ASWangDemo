@@ -1,0 +1,70 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="bar_height">37.5dip</dimen>
+    <dimen name="bar_image_padding">8.0dip</dimen>
+    <dimen name="bar_top_image">37.5dip</dimen>
+    <dimen name="bar_top_image_margin_left">7.5dip</dimen>
+    <dimen name="bar_top_text">37.5dip</dimen>
+    <dimen name="check_bar_height">37.5dip</dimen>
+    <dimen name="check_bottom_height">45.0dip</dimen>
+    <dimen name="check_bottom_iamge_height">37.5dip</dimen>
+    <dimen name="empty_all_file_text_height">18.0dip</dimen>
+    <dimen name="empty_image_margintop">30.0dip</dimen>
+    <dimen name="empty_text_height">45.0dip</dimen>
+    <dimen name="gridview_item_width">120.0dip</dimen>
+    <dimen name="item_image_height">140.0dip</dimen>
+    <dimen name="item_image_width">95.0dip</dimen>
+    <dimen name="item_margin_top">30.0dip</dimen>
+    <dimen name="item_rela_height">10.0dip</dimen>
+    <dimen name="item_rela_margin_top">3.5dip</dimen>
+    <dimen name="item_rela_text_size">9.0sp</dimen>
+    <dimen name="item_rela_width">95.0dip</dimen>
+    <dimen name="item_text_height">28.0dip</dimen>
+    <dimen name="item_text_margin_top">4.5dip</dimen>
+    <dimen name="item_text_size">10.5sp</dimen>
+    <dimen name="item_text_width">95.0dip</dimen>
+    <dimen name="left_about_apabi_margin_top">3.0dip</dimen>
+    <dimen name="left_about_bottom">45.0dip</dimen>
+    <dimen name="left_about_copyright">11.0sp</dimen>
+    <dimen name="left_about_copyright_margin_top">35.0dip</dimen>
+    <dimen name="left_about_edition_text_size">13.0sp</dimen>
+    <dimen name="left_about_image_width">60.0dip</dimen>
+    <dimen name="left_lin_bottom_margin_bottom">30.0dip</dimen>
+    <dimen name="left_lin_image_height">17.0dip</dimen>
+    <dimen name="left_lin_image_margin_left">45.0dip</dimen>
+    <dimen name="left_lin_in_height">45.0dip</dimen>
+    <dimen name="left_lin_text_margin_left">10.5dip</dimen>
+    <dimen name="left_lin_text_size">12.0sp</dimen>
+    <dimen name="left_margin_top">62.0dip</dimen>
+    <dimen name="main_left_layout_width">200.0dip</dimen>
+    <dimen name="order_down_image">9.0dip</dimen>
+    <dimen name="order_height">30.0dip</dimen>
+    <dimen name="order_include_height">30.5dip</dimen>
+    <dimen name="order_name_image_margin_left">7.5dip</dimen>
+    <dimen name="order_name_margin_right">15.0dip</dimen>
+    <dimen name="order_name_text_size">12.0sp</dimen>
+    <dimen name="recyclvervire_margin_top">30.0dip</dimen>
+    <dimen name="recyclvervire_padding_bottom">10.0dip</dimen>
+    <dimen name="recyclvervire_padding_left_right">6.0dip</dimen>
+    <dimen name="scanning_gif_margintop">7.0dip</dimen>
+    <dimen name="scanning_gif_width">60.0dip</dimen>
+    <dimen name="scanning_width">130.0dip</dimen>
+    <dimen name="scanning_word_size">12.0sp</dimen>
+    <dimen name="top_title">15.0sp</dimen>
+
+    <dimen name="rename_lin_width">262.5dp</dimen>
+    <dimen name="rename_lin_height">131.5dp</dimen>
+    <dimen name="rename_lin_title_height">37.5dp</dimen>
+    <dimen name="rename_lin_title_textsize">15sp</dimen>
+    <dimen name="rename_lin_edit_height">57dp</dimen>
+    <dimen name="rename_lin_edit_padding_leftright">22.5dp</dimen>
+    <dimen name="rename_lin_edit_padding_bottom">15dp</dimen>
+    <dimen name="rename_lin_bottom_Lin_height">36dp</dimen>
+    <dimen name="rename_lin_edit_bottom_line_width">225dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

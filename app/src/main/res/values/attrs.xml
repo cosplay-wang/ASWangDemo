@@ -1,0 +1,39 @@
+<resources>
+    <attr name="textwidth" format="integer"/>
+    <attr name="typeface">
+        <enum name="normal" value="0"/>
+        <enum name="sans" value="1"/>
+        <enum name="serif" value="2"/>
+        <enum name="monospace" value="3"/>
+    </attr>
+
+    <declare-styleable name="CYTextView">
+        <attr name="textwidth" />
+        <attr name="textSize" format="dimension"/>
+        <attr name="textColor" format="reference|color"/>
+        <attr name="lineSpacingExtra" format="dimension"/>
+        <attr name="typeface" />
+    </declare-styleable>
+
+
+    <declare-styleable name="CustomerView">
+     
+        <attr name="ctextSize" format="dimension"/>
+        <attr name="ctextColor" format="reference|color"/>
+        <attr name="ctext" format="string"/>
+    </declare-styleable>
+
+
+
+    <declare-styleable name="Circleimageview">
+
+        <attr name="roundWidth" format="dimension" />
+        <attr name="roundHeight" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="ListviewItemViewGroup">
+        <attr name="swipeEnable" format="boolean"/>
+        <attr name="ios" format="boolean"/>
+        <attr name="leftSwipe" format="boolean"/>
+    </declare-styleable>
+</resources>

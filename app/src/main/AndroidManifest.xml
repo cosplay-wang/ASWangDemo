@@ -133,7 +133,10 @@
         <activity android:name=".activity.RecyclerViewFlowActivity" />
         <activity android:name=".activity.OnsaveInatanceActivity" />
         <activity android:name=".activity.LyricsActivity" />
-        <activity android:name=".activity.MarQueeActivity"></activity>
+        <activity android:name=".activity.MarQueeActivity" />
+        <activity android:name=".activity.LoadingActivity" />
+        <activity android:name=".activity.PageTurningActivity" />
+        <activity android:name=".activity.ViewPagerPageActivity"></activity>
     </application>
 
 </manifest>

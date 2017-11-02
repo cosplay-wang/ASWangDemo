@@ -40,11 +40,13 @@ import as.founder.demo.wang.activity.LeaderActivity;
 import as.founder.demo.wang.activity.ListActivityDown;
 import as.founder.demo.wang.activity.ListViewcehuaActivity;
 import as.founder.demo.wang.activity.ListviewItemScrollViewActivity;
+import as.founder.demo.wang.activity.LoadingActivity;
 import as.founder.demo.wang.activity.LyricsActivity;
 import as.founder.demo.wang.activity.MarQueeActivity;
 import as.founder.demo.wang.activity.MediaRecorderActivity;
 import as.founder.demo.wang.activity.OKHTTP;
 import as.founder.demo.wang.activity.OnsaveInatanceActivity;
+import as.founder.demo.wang.activity.PageTurningActivity;
 import as.founder.demo.wang.activity.PullToRefreshActivity;
 import as.founder.demo.wang.activity.ReadViewActivity;
 import as.founder.demo.wang.activity.RecyclverViewActivity;
@@ -64,6 +66,7 @@ import as.founder.demo.wang.activity.TouchView2ViewGroupActivity;
 import as.founder.demo.wang.activity.TxtActivity;
 import as.founder.demo.wang.activity.ViewDragHelper1Activity;
 import as.founder.demo.wang.activity.ViewDragHelper2Activity;
+import as.founder.demo.wang.activity.ViewPagerPageActivity;
 import as.founder.demo.wang.activity.VolleyAC;
 import as.founder.demo.wang.activity.VolleyImageLoader;
 import as.founder.demo.wang.activity.Web2JS;
@@ -192,6 +195,9 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         stringList.add("onsaveianatance");
         stringList.add("加载歌词每行一句居中，超过一行的分行--红豆live");
         stringList.add("跑马灯");
+        stringList.add("加载中的发光动画");
+        stringList.add("翻页效果");
+        stringList.add("ViewPager翻页效果");
         return stringList;
     }
 
@@ -355,6 +361,15 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
                 break;
             case 51:
                 intent.setClass(getApplicationContext(),MarQueeActivity.class);
+                break;
+            case 52:
+                intent.setClass(getApplicationContext(),LoadingActivity.class);
+                break;
+            case 53:
+                intent.setClass(getApplicationContext(),PageTurningActivity.class);
+                break;
+            case 54:
+                intent.setClass(getApplicationContext(),ViewPagerPageActivity.class);
                 break;
             default:
                 break;

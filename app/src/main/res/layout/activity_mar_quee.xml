@@ -4,12 +4,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="as.founder.demo.wang.activity.MarQueeActivity">
+    tools:context="as.founder.demo.wang.activity.MarQueeActivity"
+    android:orientation="vertical">
     <as.founder.demo.wang.custometextview.MarQueeTextView
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:id="@+id/jjj_marquee"
         android:text="我是一头小毛驴吧,翻滚吧，小毛驴，门前大桥下哎，游过一群鸭，快来快来数一数，二四六七八"
         android:maxLines="1"/>
+    <!--<as.founder.demo.wang.custometextview.MarqueeText-->
+        <!--android:id="@+id/marquee"-->
+        <!--android:text="我是一头小毛驴吧,翻滚吧，小毛驴，门前大桥下哎，游过一群鸭，快来快来数一数，二四六七八"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="200dp" />-->
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="开始滚动"
+        android:id="@+id/button_control"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="重置滚动"
+        android:id="@+id/button_reset"/>
 
 </LinearLayout>

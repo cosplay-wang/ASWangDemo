@@ -36,6 +36,7 @@ import as.founder.demo.wang.activity.EditTextWithTextViewActivity;
 import as.founder.demo.wang.activity.FrescoImageLoader;
 import as.founder.demo.wang.activity.HtmlAppActivity;
 import as.founder.demo.wang.activity.JointImageActivity;
+import as.founder.demo.wang.activity.JsonCompareActivity;
 import as.founder.demo.wang.activity.LeaderActivity;
 import as.founder.demo.wang.activity.ListActivityDown;
 import as.founder.demo.wang.activity.ListViewcehuaActivity;
@@ -84,6 +85,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         dataList =  getData();
         listView = (ListView) findViewById(R.id.listview);
         listViewAdapter = new MainListviewAdapter(dataList,this);
@@ -198,6 +200,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         stringList.add("加载中的发光动画");
         stringList.add("翻页效果");
         stringList.add("ViewPager翻页效果");
+        stringList.add("json比较");
         return stringList;
     }
 
@@ -370,6 +373,9 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
                 break;
             case 54:
                 intent.setClass(getApplicationContext(),ViewPagerPageActivity.class);
+                break;
+            case 55:
+                intent.setClass(getApplicationContext(),JsonCompareActivity.class);
                 break;
             default:
                 break;

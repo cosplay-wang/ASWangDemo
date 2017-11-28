@@ -56,11 +56,11 @@ public class LyricsActivity extends AppCompatActivity {
         stringList.add("从出生那飘着 ");
         stringList.add("童年的荡秋千   ");
         stringList.add("随记忆一直晃到现在 ");
-        stringList.add("rui sou sou xi dou xi la \n" +
-                "sou la xi xi xi xi la xi la sou \n" +
-                "吹着前奏望着天空 \n" +
-                "我想起花瓣试着掉落 \n" +
-                "为你翘课的那一天 \n" +
+        stringList.add("rui sou sou xi dou xi la" +
+                "sou la xi xi xi xi la xi la sou " +
+                "吹着前奏望着天空" +
+                "我想起花瓣试着掉落 " +
+                "为你翘课的那一天 " +
                 "花落的那一天 ");
         stringList.add("教室的那一间  ");
     }

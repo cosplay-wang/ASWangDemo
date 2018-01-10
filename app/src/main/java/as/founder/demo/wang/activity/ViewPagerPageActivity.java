@@ -20,6 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import as.founder.demo.wang.R;
+import as.founder.demo.wang.singleTon.SingleTon;
 import as.founder.demo.wang.viewpager.CommonUtils;
 import as.founder.demo.wang.viewpager.FTransForm;
 
@@ -96,6 +97,7 @@ public class ViewPagerPageActivity extends BaseTestActivity {
             @Override
             public void destroyItem(ViewGroup container, int position, Object object) {
                 container.removeView(imageViews.get(position%imageViews.size()));
+
             }
 
 //            @Override

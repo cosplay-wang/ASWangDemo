@@ -38,6 +38,7 @@ import as.founder.demo.wang.activity.HtmlAppActivity;
 import as.founder.demo.wang.activity.JointImageActivity;
 import as.founder.demo.wang.activity.JsonCompareActivity;
 import as.founder.demo.wang.activity.LeaderActivity;
+import as.founder.demo.wang.activity.LifeCycleActivity;
 import as.founder.demo.wang.activity.ListActivityDown;
 import as.founder.demo.wang.activity.ListViewcehuaActivity;
 import as.founder.demo.wang.activity.ListviewItemScrollViewActivity;
@@ -50,6 +51,7 @@ import as.founder.demo.wang.activity.OnsaveInatanceActivity;
 import as.founder.demo.wang.activity.PageTurningActivity;
 import as.founder.demo.wang.activity.PullToRefreshActivity;
 import as.founder.demo.wang.activity.ReadViewActivity;
+import as.founder.demo.wang.activity.ReaderActivity;
 import as.founder.demo.wang.activity.RecyclverViewActivity;
 import as.founder.demo.wang.activity.RecyclverviewDownActivity;
 import as.founder.demo.wang.activity.ScanningActivity;
@@ -58,6 +60,7 @@ import as.founder.demo.wang.activity.SnackBarActivity;
 import as.founder.demo.wang.activity.SrrollViewImageviewActivity;
 import as.founder.demo.wang.activity.SurfaceViewActivity;
 import as.founder.demo.wang.activity.SwipeRefreshLayoutAC;
+import as.founder.demo.wang.activity.TTSActivity;
 import as.founder.demo.wang.activity.TextActivity;
 import as.founder.demo.wang.activity.TextInputLayoutActivity;
 import as.founder.demo.wang.activity.TextViewSpannableActivity;
@@ -74,7 +77,9 @@ import as.founder.demo.wang.activity.Web2JS;
 import as.founder.demo.wang.adapter.MainListviewAdapter;
 import as.founder.demo.wang.customerviewgroup.CustomerLinearlayoutActivity;
 import as.founder.demo.wang.customerviewgroup.FlowActivity;
+import as.founder.demo.wang.ijkplayer.IjkPlayerActivity;
 import as.founder.demo.wang.videorecorder.ScreenCaptureActivity;
+import as.founder.demo.wang.wyyyyPlayView.WyyyyViewActivity;
 
 
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemClickListener{
@@ -85,7 +90,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        main(null);
         dataList =  getData();
         listView = (ListView) findViewById(R.id.listview);
         listViewAdapter = new MainListviewAdapter(dataList,this);
@@ -201,6 +206,11 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         stringList.add("翻页效果");
         stringList.add("ViewPager翻页效果");
         stringList.add("json比较");
+        stringList.add("生命周期的复习");
+        stringList.add("翻页的demo");
+        stringList.add("TTS的原生demo");
+        stringList.add("ijkplayer的使用");
+        stringList.add("网易云音乐的播放界面");
         return stringList;
     }
 
@@ -377,6 +387,20 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             case 55:
                 intent.setClass(getApplicationContext(),JsonCompareActivity.class);
                 break;
+            case 56:
+                intent.setClass(getApplicationContext(),LifeCycleActivity.class);
+                break;
+            case 57:
+                intent.setClass(getApplicationContext(),ReaderActivity.class);
+                break;
+            case 58:
+                intent.setClass(getApplicationContext(), TTSActivity.class);
+                break;
+            case 59:
+                intent.setClass(getApplicationContext(), IjkPlayerActivity.class);
+            case 60:
+                intent.setClass(getApplicationContext(), WyyyyViewActivity.class);
+                break;
             default:
                 break;
         }
@@ -384,5 +408,16 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         startActivity(intent);
        //8 overridePendingTransition(android.R.anim.fade_in,android.R.anim.fade_out);
         overridePendingTransition(android.R.anim.slide_in_left,android.R.anim.slide_out_right);
+    }
+    public static void main(String[] args) {
+        String a = "Programming";
+        String b = new String("Programming");
+        String c = "Program" + "ming";
+
+        System.out.println(a == b);
+        System.out.println(a == c);
+        System.out.println(a.equals(b));
+        System.out.println(a.equals(c));
+        System.out.println(a.intern() == b.intern());
     }
 }

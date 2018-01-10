@@ -16,6 +16,20 @@ android {
 
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+        debug {
+
+        }
+        beta {
+
+            //关键代码，release， debug为library中已有buildType
+            matchingFallbacks = ['release', 'debug']
+        }
+        sourceSets {
+            main {
+                jniLibs.srcDirs = ['libs']
+            }
+        }
+
     }
 }
 apply plugin: 'com.jakewharton.butterknife'
@@ -23,12 +37,25 @@ dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile files('libs/gson-2.7.jar')
     // annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
-
-
+    compile 'com.jakewharton:butterknife:8.5.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
     compile 'com.android.support:appcompat-v7:25.1.0'
     compile 'com.android.support:recyclerview-v7:25.1.0'
     compile 'com.android.support:design:25.1.0'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.jakewharton:butterknife:8.8.1'
     testCompile 'junit:junit:4.12'
+    compile 'com.kingja.loadsir:loadsir:1.2.0'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    implementation files('libs/nls-service-sdk.jar')
+    implementation files('libs/Msc.jar')
+
+
+    compile 'tv.danmaku.ijk.media:ijkplayer-java:0.8.4'
+    compile 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.4'
+    compile 'tv.danmaku.ijk.media:ijkplayer-armv5:0.8.4'
+    compile 'tv.danmaku.ijk.media:ijkplayer-arm64:0.8.4'
+    compile 'tv.danmaku.ijk.media:ijkplayer-x86:0.8.4'
+    compile 'tv.danmaku.ijk.media:ijkplayer-x86_64:0.8.4'
+    compile 'tv.danmaku.ijk.media:ijkplayer-exo:0.8.4'
 }

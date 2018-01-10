@@ -139,7 +139,13 @@
         <activity android:name=".activity.PageTurningActivity" />
         <activity android:name=".activity.ViewPagerPageActivity" />
         <activity android:name=".activity.BaseTestActivity" />
-        <activity android:name=".activity.JsonCompareActivity"></activity>
+        <activity android:name=".activity.JsonCompareActivity" />
+        <activity android:name=".activity.LifeCycleActivity" />
+        <activity android:name=".activity.ReaderActivity" />
+        <activity android:name=".activity.TTSActivity" />
+        <activity android:name=".ijkplayer.IjkPlayerActivity" />
+        <activity android:name=".wyyyyPlayView.WyyyyViewActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
     </application>
 
 </manifest>

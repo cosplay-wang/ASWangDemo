@@ -144,8 +144,10 @@
         <activity android:name=".activity.ReaderActivity" />
         <activity android:name=".activity.TTSActivity" />
         <activity android:name=".ijkplayer.IjkPlayerActivity" />
-        <activity android:name=".wyyyyPlayView.WyyyyViewActivity"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
+        <activity
+            android:name=".wyyyyPlayView.WyyyyViewActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".activity.RealLyricsActivity"></activity>
     </application>
 
 </manifest>

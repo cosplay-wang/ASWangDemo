@@ -52,6 +52,7 @@ import as.founder.demo.wang.activity.PageTurningActivity;
 import as.founder.demo.wang.activity.PullToRefreshActivity;
 import as.founder.demo.wang.activity.ReadViewActivity;
 import as.founder.demo.wang.activity.ReaderActivity;
+import as.founder.demo.wang.activity.RealLyricsActivity;
 import as.founder.demo.wang.activity.RecyclverViewActivity;
 import as.founder.demo.wang.activity.RecyclverviewDownActivity;
 import as.founder.demo.wang.activity.ScanningActivity;
@@ -175,7 +176,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         stringList.add("DrawerLayout+NavigationView");
         stringList.add("touch缩放滑动");
         stringList.add("扫描本地指定后缀文件");
-        stringList.add("app的引导页");
+        stringList.add("app的引导页,改为自动滚动的广告页（用位置变换）");
         stringList.add("Collection.sort的排序");
         stringList.add("read Viewpager 翻页");
         stringList.add("scrollview 套imageview");
@@ -211,6 +212,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         stringList.add("TTS的原生demo");
         stringList.add("ijkplayer的使用");
         stringList.add("网易云音乐的播放界面");
+        stringList.add("歌词界面");
         return stringList;
     }
 
@@ -400,6 +402,10 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
                 intent.setClass(getApplicationContext(), IjkPlayerActivity.class);
             case 60:
                 intent.setClass(getApplicationContext(), WyyyyViewActivity.class);
+                break;
+
+            case 61:
+                intent.setClass(getApplicationContext(), RealLyricsActivity.class);
                 break;
             default:
                 break;

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="as.founder.demo.wang.activity.MessengerActivity"
+    android:orientation="vertical">
+    <TextView
+        android:textSize="25sp"
+        android:text="显示结果"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/show_result"/>
+    <TextView
+        android:textSize="25sp"
+        android:text="发送"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/send"/>
+    <TextView
+        android:textSize="25sp"
+        android:text="停止发送"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/stop"/>
+
+
+</LinearLayout>

@@ -147,7 +147,39 @@
         <activity
             android:name=".wyyyyPlayView.WyyyyViewActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-        <activity android:name=".activity.RealLyricsActivity"></activity>
+        <activity android:name=".activity.RealLyricsActivity" />
+        <activity android:name=".activity.XRecyclerViewActivity" />
+        <activity android:name=".activity.PopWindowActivity" />
+        <activity android:name=".activity.MatrixActivity" />
+        <activity android:name=".activity.AppBarLayoutActivity" />
+        <activity android:name=".activity.MessengerActivity" />
+
+        <service
+            android:name=".messenger.MessengerService"
+            android:enabled="true"
+            android:exported="true"
+            android:process=".messenger">
+            <intent-filter>
+                <action android:name="com.cosplay.aidl.messenger" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".activity.AIDLActivity" />
+
+        <service
+            android:name=".aidlservice.AIDLService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.cosplay.aidl.aidl" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".activity.ThreadRunnableActivity"></activity>
     </application>
 
 </manifest>

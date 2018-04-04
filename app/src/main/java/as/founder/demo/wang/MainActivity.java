@@ -18,7 +18,9 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
+import as.founder.demo.wang.activity.AIDLActivity;
 import as.founder.demo.wang.activity.AlarmManagerActivityl;
+import as.founder.demo.wang.activity.AppBarLayoutActivity;
 import as.founder.demo.wang.activity.BluetoochActivity;
 import as.founder.demo.wang.activity.BrightnessActivity;
 import as.founder.demo.wang.activity.BrokenLineActivity;
@@ -45,10 +47,13 @@ import as.founder.demo.wang.activity.ListviewItemScrollViewActivity;
 import as.founder.demo.wang.activity.LoadingActivity;
 import as.founder.demo.wang.activity.LyricsActivity;
 import as.founder.demo.wang.activity.MarQueeActivity;
+import as.founder.demo.wang.activity.MatrixActivity;
 import as.founder.demo.wang.activity.MediaRecorderActivity;
+import as.founder.demo.wang.activity.MessengerActivity;
 import as.founder.demo.wang.activity.OKHTTP;
 import as.founder.demo.wang.activity.OnsaveInatanceActivity;
 import as.founder.demo.wang.activity.PageTurningActivity;
+import as.founder.demo.wang.activity.PopWindowActivity;
 import as.founder.demo.wang.activity.PullToRefreshActivity;
 import as.founder.demo.wang.activity.ReadViewActivity;
 import as.founder.demo.wang.activity.ReaderActivity;
@@ -65,6 +70,7 @@ import as.founder.demo.wang.activity.TTSActivity;
 import as.founder.demo.wang.activity.TextActivity;
 import as.founder.demo.wang.activity.TextInputLayoutActivity;
 import as.founder.demo.wang.activity.TextViewSpannableActivity;
+import as.founder.demo.wang.activity.ThreadRunnableActivity;
 import as.founder.demo.wang.activity.TimerWidgetActivity;
 import as.founder.demo.wang.activity.TouchActivity;
 import as.founder.demo.wang.activity.TouchView2ViewGroupActivity;
@@ -75,6 +81,7 @@ import as.founder.demo.wang.activity.ViewPagerPageActivity;
 import as.founder.demo.wang.activity.VolleyAC;
 import as.founder.demo.wang.activity.VolleyImageLoader;
 import as.founder.demo.wang.activity.Web2JS;
+import as.founder.demo.wang.activity.XRecyclerViewActivity;
 import as.founder.demo.wang.adapter.MainListviewAdapter;
 import as.founder.demo.wang.customerviewgroup.CustomerLinearlayoutActivity;
 import as.founder.demo.wang.customerviewgroup.FlowActivity;
@@ -213,6 +220,13 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         stringList.add("ijkplayer的使用");
         stringList.add("网易云音乐的播放界面");
         stringList.add("歌词界面");
+        stringList.add("播放底部");
+        stringList.add("popwindow");
+        stringList.add("matrix相关");
+        stringList.add("AppBarLayout");
+        stringList.add("Messenger进程间通信");
+        stringList.add("AIDL 进程间通信");
+        stringList.add("线程可以执行的任务种类");
         return stringList;
     }
 
@@ -406,6 +420,26 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
             case 61:
                 intent.setClass(getApplicationContext(), RealLyricsActivity.class);
+                break;
+            case 62:
+                intent.setClass(getApplicationContext(), XRecyclerViewActivity.class);
+                break;
+            case 63:
+                intent.setClass(getApplicationContext(), PopWindowActivity.class);
+            case 64:
+                intent.setClass(getApplicationContext(), MatrixActivity.class);
+                break;
+            case 65:
+                intent.setClass(getApplicationContext(), AppBarLayoutActivity.class);
+                break;
+            case 66:
+                intent.setClass(getApplicationContext(), MessengerActivity.class);
+                break;
+            case 67:
+                intent.setClass(getApplicationContext(), AIDLActivity.class);
+                break;
+            case 68:
+                intent.setClass(getApplicationContext(), ThreadRunnableActivity.class);
                 break;
             default:
                 break;

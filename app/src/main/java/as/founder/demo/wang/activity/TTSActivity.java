@@ -3,9 +3,12 @@ package as.founder.demo.wang.activity;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.Environment;
+import android.os.Handler;
+import android.os.Looper;
 import android.speech.tts.TextToSpeech;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.util.LruCache;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.RadioGroup;
@@ -20,6 +23,7 @@ import com.iflytek.cloud.SpeechSynthesizer;
 import com.iflytek.cloud.SynthesizerListener;
 import com.iflytek.sunflower.FlowerCollector;
 
+import java.util.LinkedHashMap;
 import java.util.Locale;
 
 import as.founder.demo.wang.R;
@@ -241,6 +245,7 @@ public class TTSActivity extends AppCompatActivity{
         FlowerCollector.onPause(this);
         super.onPause();
     }
+
 
 }
 

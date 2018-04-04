@@ -1,11 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="app_name">ASDemowangzw
-    </string>
-    <string name="scanning_word">扫描
-    </string>
-    <string name="title_activity_joint_image">JointImageActivity</string>
-
-
+    <string name="app_name">讯飞语音示例</string>
     <!-- 请替换成在语音云官网申请的appid -->
     <string name="app_id">5a3a258a</string>
     <string name="example_explain">本示例为讯飞语音Android平台开发者提供语音听写、语法识别、语义理解和语音合成等代码样例，旨在让用户能够依据该示例快速开发出基于语音接口的应用程序。</string>
@@ -32,7 +27,7 @@
 
     <string name="title_face_idf">人脸1:N检索示例</string>
     <string name="title_vocal_idf">声纹1:N检索示例</string>
-
+    
 
     <!-- 合成 -->
     <string-array name="engine_entries">
@@ -111,7 +106,7 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string name="tts_toast_format" formatted="false">缓冲进度为%d%%，播放进度为%d%%</string>
+    <string formatted="false" name="tts_toast_format">缓冲进度为%d%%，播放进度为%d%%</string>
     <!-- 语言 -->
     <string-array name="language_entries">
         <item>普通话</item>
@@ -164,7 +159,4 @@
         <item>开启</item>
         <item>关闭</item>
     </string-array>
-
-    <string name="play_time_start">00:00</string>
-    <string name="appbarlayout">技术改变生活</string>
 </resources>

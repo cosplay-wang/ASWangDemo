@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="as.founder.demo.wang.activity.ThreadRunnableActivity"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/runnable"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Runnable--无返回值"
+        android:gravity="center"
+        android:layout_marginBottom="1dp"/>
+    <TextView
+        android:id="@+id/callable"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Callable--有返回值"
+        android:gravity="center"
+        android:layout_marginBottom="1dp"/>
+
+
+</LinearLayout>
